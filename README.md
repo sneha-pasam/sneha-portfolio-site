@@ -1,15 +1,15 @@
-# sneha-portfolio-site
-# Sneha Pasam – Portfolio Website
+# 🌐 Sneha Pasam – Portfolio Website
 
-This is my personal portfolio website hosted on AWS S3.
+This is my personal portfolio hosted on AWS S3.
 
-## 🌐 Live URL
+## 🔗 Live URL
 [http://sneha-portfolio-site.s3-website-ap-south-1.amazonaws.com](http://sneha-portfolio-site.s3-website-ap-south-1.amazonaws.com)
 
-## 🛠️ Built With
-- HTML5 & CSS3
-- Hosted on AWS S3 (Static Website)
+## 🛠️ Tech Stack
+- HTML, CSS
+- AWS S3 (Static Website Hosting)
 - Public access via S3 Bucket Policy
+- GitHub for version control
 
 ## 📫 Connect With Me
 - [GitHub](https://github.com/sneha-pasam)
